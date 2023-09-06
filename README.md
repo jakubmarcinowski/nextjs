@@ -1,6 +1,8 @@
 ## Getting Started
 
-First, run the development server:
+Set the .env file based on .env.example
+
+Then, run the development server:
 
 ```bash
 npm run dev
